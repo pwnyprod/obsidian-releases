@@ -13501,5 +13501,12 @@
     "author": "Titus",
     "description": "World building toolset with OnlyWorlds integration.",
     "repo": "OnlyWorlds/obsidian-plugin"
+  },
+  {
+    "id": "obsidian-confluence-space-sync-plugin",
+    "name": "Confluence Space Sync",
+    "author": "Pwnyprod",
+    "description": "Sync entire Confluence spaces with Obsidian",
+    "repo": "pwnyprod/obsidian-confluence-space-sync-plugin"
   }
 ]
